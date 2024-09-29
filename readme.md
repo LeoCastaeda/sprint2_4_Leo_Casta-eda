@@ -9,7 +9,7 @@ Este proyecto contiene una serie de consultas realizadas sobre una base de datos
 
 ## Estructura
 
-El proyecto incluye 30 consultas diferentes, organizadas en tres niveles de complejidad:
+El proyecto incluye 32 consultas diferentes, organizadas en tres niveles de complejidad:
 
 1. **Consultas Básicas**: Recuperación de datos simples, como nombres de restaurantes y barrios.
 2. **Consultas Intermedias**: Filtrado más avanzado de datos, uso de condiciones múltiples y operadores lógicos.
